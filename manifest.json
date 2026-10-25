@@ -1,0 +1,17 @@
+{
+  "name": "AADS Blast",
+  "short_name": "AADS Blast",
+  "description": "A sweet match-3 puzzle game with bombs and power-ups.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#e4d0ff",
+  "theme_color": "#8a4dff",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
